@@ -15,6 +15,7 @@ print(str1.lower())
 items = ["harry",2,3]
 items[1] = "Manish"
 print(items)
+
 tup1 = (1,2,3)
 tup1[0] = 2
 print(tup1)
