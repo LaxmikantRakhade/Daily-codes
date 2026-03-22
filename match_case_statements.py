@@ -12,5 +12,26 @@ match x:
     case 4 :
         print ("x is four")
     case _:         # else condition /  defult case
-                    # will only be matched if theabove cases were not matched)
+                    # will only be matched if the above cases were not matched)
         print(x)
+
+
+
+
+
+# marks = int (input ("Enter the marks (out of 3) : "))
+# match marks :
+#     case 0 :
+#         print ("dummm !")
+#     case 1 :
+#         print ("Average !")
+#     case 2 :
+#         print ("Good ! ")
+#     case 3 :
+#         print ('Very good !')
+#     case _:
+#         print ("Thanks !")
+    
+    
+
+
