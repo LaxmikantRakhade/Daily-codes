@@ -27,11 +27,20 @@
 #     print ("done")
 #     CalculateMean(c,d)
 
+# def names (name1,name2):
+#     print("shrii & motu")
+# names("jhanak","panda")
+
+
+
 
 
 def CalculateGMean(a,b):
     GMean = (a*b)/(a+b)
     print("The geometric mean is : ",GMean)
+
+def CalculateRMS(a,b,c):
+    pass
 
 def CalculateMinMax(a,b):
     if (a>b):
@@ -41,7 +50,7 @@ def CalculateMinMax(a,b):
     else:
         print (a,'=',b, "a and b are equal !")
 
-a = int (input ("Enter a first number : "))
-b = int (input ("Enter a second number : "))
-CalculateMinMax(a,b)
-CalculateGMean(a,b)
+y = int (input ("Enter a first number : "))
+z = int (input ("Enter a second number : "))
+CalculateMinMax(y,z)
+CalculateGMean(y,z)
