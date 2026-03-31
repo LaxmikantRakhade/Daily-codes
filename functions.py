@@ -70,16 +70,25 @@
 # CalculateSum(x,y,z)
 
 # 2) Check Even or Odd
-def Check_Even_Odd (num):
-    if (num%2==0):
-        print ("Even number !")
-    else:
-        print ("Odd number !")
+# def Check_Even_Odd (num):
+#     if (num%2==0):
+#         print ("Even number !")
+#     else:
+#         print ("Odd number !")
 
-num = int(input("Enter a number : "))
-Check_Even_Odd(num)
+# num = int(input("Enter a number : "))
+# Check_Even_Odd(num)
 
 # 3) Factorial of a Number
+def Factorial(num):
+    fact = 1
+    for i in range (1,num+1):
+        fact = fact * i
+    print (fact)
+
+integer = int (input ("Enter a number "))
+Factorial (5)
+
 
 
 
