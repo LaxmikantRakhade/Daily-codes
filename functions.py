@@ -35,22 +35,51 @@
 
 
 
-def CalculateGMean(a,b):
-    GMean = (a*b)/(a+b)
-    print("The geometric mean is : ",GMean)
+# def CalculateGMean(a,b):
+#     GMean = (a*b)/(a+b)
+#     print("The geometric mean is : ",GMean)
 
-def CalculateRMS(a,b,c):
-    pass
+# def CalculateRMS(a,b,c):
+#     pass
 
-def CalculateMinMax(a,b):
-    if (a>b):
-        print (a,"is greater !")
-    elif (b>a):
-        print (b, "is greater !")
+# def CalculateMinMax(a,b):
+#     if (a>b):
+#         print (a,"is greater !")
+#     elif (b>a):
+#         print (b, "is greater !")
+#     else:
+#         print (a,'=',b, "a and b are equal !")
+
+# y = int (input ("Enter a first number : "))
+# z = int (input ("Enter a second number : "))
+# CalculateMinMax(y,z)
+# CalculateGMean(y,z)
+
+
+
+
+
+# 1) Calculate Sum
+# def CalculateSum (a,b,c):
+#     sum = a + b + c
+#     print (sum)
+
+# x = int(input("Enter the 1st no : "))
+# y = int(input("Enter the 2nd no : "))
+# z = int(input("Enter the 3rd no : "))
+# CalculateSum(x,y,z)
+
+# 2) Check Even or Odd
+def Check_Even_Odd (num):
+    if (num%2==0):
+        print ("Even number !")
     else:
-        print (a,'=',b, "a and b are equal !")
+        print ("Odd number !")
 
-y = int (input ("Enter a first number : "))
-z = int (input ("Enter a second number : "))
-CalculateMinMax(y,z)
-CalculateGMean(y,z)
+num = int(input("Enter a number : "))
+Check_Even_Odd(num)
+
+# 3) Factorial of a Number
+
+
+
