@@ -14,10 +14,10 @@ print ("done with the loop !")
 
 
 # decrementing whilw loop
-number = 5 # -5
-while (number > 0):
-    print(number) 
-    number = number-1
-else:
-    print ("Done") 
+# number = 5 # -5
+# while (number > 0):
+#     print(number) 
+#     number = number-1
+# else:
+#     print ("Done") 
 
