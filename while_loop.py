@@ -21,11 +21,3 @@ while (number > 0):
 else:
     print ("Done") 
 
-
-
-
-
-
-
-
-
