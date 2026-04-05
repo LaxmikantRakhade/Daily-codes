@@ -86,7 +86,9 @@ def Factorial(num):
         fact = fact * i
     print (fact)
 
-integer = int (input ("Enter a number "))
+integer = int (input ("Enter a number : "))
 Factorial (integer)
+
+
 
 
