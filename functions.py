@@ -88,7 +88,3 @@ def Factorial(num):
 
 integer = int (input ("Enter a number : "))
 Factorial (integer)
-
-
-
-
