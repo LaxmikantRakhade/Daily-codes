@@ -22,8 +22,6 @@
 # # explanation: https://chatgpt.com/share/69be7c47-7cd8-800b-8cba-738483c30a63
 
 
-
-
 import time
 timestamp = time.strftime('%H:%M:%S')
 print (timestamp)
