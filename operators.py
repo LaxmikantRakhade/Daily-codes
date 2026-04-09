@@ -8,7 +8,6 @@ print(15%7)
 print(5//3)
 
 
-
 # simple calculator 
 num1 = 5
 num2 = 3 
