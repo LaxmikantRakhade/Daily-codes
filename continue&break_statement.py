@@ -12,7 +12,6 @@ for i in range (15):
     print (i,"* 5 =",i*5)
 
 
-
 # practice
 
 for i in range (10):
