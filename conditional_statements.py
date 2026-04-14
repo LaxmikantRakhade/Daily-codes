@@ -7,7 +7,6 @@
 #    print ("You can't drive")
 # print ("Thank You")
 
-
 # MarksOfMotu = int(input ("Enter marks of motu :  "))
 # MarksOfShrii = int(input ("Enter marks of Shrii :  "))
 
