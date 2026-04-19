@@ -24,3 +24,11 @@ for letters in name:
 number = int(input("Eenter an number : "))  
 for i in range (10):
     print (number,'x ',i+1,'=',number*(i+1))
+
+
+
+
+
+
+
+    
