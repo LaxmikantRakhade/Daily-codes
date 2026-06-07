@@ -76,7 +76,19 @@
 # for alphabates in range(len(name)-1,-1,-1):
 #     print (name[alphabates])
 
+# patterns 
+for i in range (1,6):
+    print (i*" *")
 
+print ("\n")
+
+for i in range (6-1,-1,-1):
+    print (i*" *")
+print ("\n")
+
+# square pattern
+for i in range (1,6):
+    print (5*' *')
 
 
     
