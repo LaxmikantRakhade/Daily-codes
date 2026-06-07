@@ -103,7 +103,17 @@
 # else: 
 #     print ("number is not prime !")
 
-        
+# fibonacci series
+# num1 = 0
+# num2 = 1
+# for i in range (100):     # 100 iterations f100th value 
+#     print (num1,end=" ")
+#     num1 , num2 = num2 , num1 + num2 
 
-
-
+# find largest number in a list
+numbers = [10,35,5,64,25,7,9,11]
+largest = numbers[0]
+for number in numbers:
+    if number > largest:
+        largest = number
+print (largest)
