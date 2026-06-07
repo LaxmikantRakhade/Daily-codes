@@ -111,9 +111,22 @@
 #     num1 , num2 = num2 , num1 + num2 
 
 # find largest number in a list
-numbers = [10,35,5,64,25,7,9,11]
-largest = numbers[0]
-for number in numbers:
-    if number > largest:
-        largest = number
-print (largest)
+# numbers = [10,35,5,64,25,7,9,11]
+# largest = numbers[0]
+# for number in numbers:
+#     if number > largest:
+#         largest = number
+# print (largest)
+
+# print numbers in a reverse order from 10 to 1
+# for numbers in range (10,0,-1):
+#     print (numbers)
+
+# count vowels in a string
+# sentence= " i love panda "
+# count = 0
+# for charactors in sentence.lower():
+#     if charactors in "aeiou":
+#         count = count + 1 
+# print (count)
+
