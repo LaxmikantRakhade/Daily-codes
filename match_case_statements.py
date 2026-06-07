@@ -16,6 +16,9 @@ match x:
         print(x)
 
 
+
+
+
 # marks = int (input ("Enter the marks (out of 3) : "))
 # match marks :
 #     case 0 :
@@ -31,19 +34,20 @@ match x:
     
 
 
-time = int (input ("Enter a current time (1, 2, 3, 4, 5) :  "))
+time = int (input ("Enter a current time (1, 2, 3, 4, 5):"))
 match time:
     case 1:
-        print ("time is 1 ")
+        print ("time is 1 pm ")
     case 2:
-        print ("time is 2 ")
+        print ("time is 2 am")
     case 3:
-        print ("time is 3 ")
+        print ("time is 3 am")
     case 4:
-        print ("time is 4 ")
+        print ("time is 4 am")
     case 5:
-        print ("time is 5 ")
+        print ("time is 5 am")
     case _:
-        print (time)
+        print (time,"am")
+    
     
 
