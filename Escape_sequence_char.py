@@ -7,6 +7,10 @@ print ('hi motu i am \'laxmikant\'fine')
 
 print ("hii motu \' how are you")
 
+print ("hey 'shrii' hi")
+
+print ('hii i am "shrii" ')
+
 
 
 
