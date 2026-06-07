@@ -77,19 +77,33 @@
 #     print (name[alphabates])
 
 # patterns 
-for i in range (1,6):
-    print (i*" *")
+# for i in range (1,6):
+#     print (i*" *")
 
-print ("\n")
+# print ("\n")
 
-for i in range (6-1,-1,-1):
-    print (i*" *")
-print ("\n")
+# for i in range (6-1,-1,-1):
+#     print (i*" *")
+# print ("\n")
 
-# square pattern
-for i in range (1,6):
-    print (5*' *')
+# # square pattern
+# for i in range (1,6):
+#     print (5*' *')
 
 
-    
+# prime number check
+# num = int (input("enter a number : "))
+# if num >1:
+#     for i in range (2,num):
+#         if (num % i) == 0:
+#             print ('number is not prime !')
+#             break
+#     else:
+#         print ('number is prime!')
+# else: 
+#     print ("number is not prime !")
+
+        
+
+
 
