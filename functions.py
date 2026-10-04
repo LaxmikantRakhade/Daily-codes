@@ -55,10 +55,6 @@
 # CalculateMinMax(y,z)
 # CalculateGMean(y,z)
 
-
-
-
-
 # 1) Calculate Sum
 # def CalculateSum (a,b,c):
 #     sum = a + b + c
